@@ -69,3 +69,6 @@ a:hover {
 .click:hover {
   opacity: 1;
 }
+.stels {
+  display: none;
+}
